@@ -5,7 +5,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+<<<<<<< HEAD
        <Welcome/>
+=======
+       <Profile/>
+       
+>>>>>>> perfil
       </header>
     </div>
   );
